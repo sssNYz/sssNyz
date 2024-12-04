@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sss_ny_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="sss_ny_" height="30" width="40" /></a>
+<a href="https://instagram.com/sss_ny_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="sss_ny_" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
